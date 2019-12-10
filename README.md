@@ -8,6 +8,7 @@ https://github.com/DNF-UNIL/Introduction_to_bioinformatics
 
 ## Next Session
 **Coming Soon**
+
 **Stay Tuned**
 
 ## Past Sessions
