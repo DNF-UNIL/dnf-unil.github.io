@@ -11,7 +11,22 @@ If you would like to participate to the coding session, please fill in the formu
 
 ## Past Sessions
 
-### 6/11/19
+### 04/12/2019
+The second coding session will take place in the APP room on Wednesday, December 4 from 13:00 to 17:30. In this session, we have the additional contribution of Tilmann and Romain. The schedule will be the following:
+
+Theory:
+- Summary of the session
+- Showcase of Arduino Projects
+
+Practise:
+- Basics on bash and terminal
+- Basics of programming with R in Jupyter Notebooks
+- Machine Learning for pattern recognition (automatic cell extraction)
+
+Closure:
+- Apero and social dynamics
+
+### 06/11/2019
 The first coding session will take place in the APP room on Wednesday, November 6 from 13:30 to 18:00. The schedule is the following:
 
 1. A quick intro to tools for reproducible research: git, bash, docker and jupyter.
